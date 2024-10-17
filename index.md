@@ -6,3 +6,6 @@ for(i=0;i<10;i++){
   System.out.print("Hi")
 }
 ```
+- [x] List1
+- [ ] List2
+- [ ] List3
